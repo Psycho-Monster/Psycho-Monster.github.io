@@ -8,12 +8,4 @@
     <loc>http://yoursite-url/undefined/test/</loc>
     <lastmod>2024-03-04</lastmod>
   </url>
-  <url>
-    <loc>http://yoursite-url/en/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2020-04-16</lastmod>
-  </url>
-  <url>
-    <loc>http://yoursite-url/cn/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2020-04-16</lastmod>
-  </url>
 </urlset> 
