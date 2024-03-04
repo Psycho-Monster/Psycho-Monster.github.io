@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite-url/undefined/zzz/</loc>
+    
+    <lastmod>2024-03-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/undefined/test/</loc>
+    
+    <lastmod>2024-03-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite-url/tags/index.html</loc>
     
     <lastmod>2024-03-03</lastmod>

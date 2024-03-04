@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yoursite-url/undefined/zzz/</loc>
+    <lastmod>2024-03-04</lastmod>
+  </url>
+  <url>
+    <loc>http://yoursite-url/undefined/test/</loc>
+    <lastmod>2024-03-04</lastmod>
+  </url>
+  <url>
     <loc>http://yoursite-url/en/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-04-16</lastmod>
   </url>
